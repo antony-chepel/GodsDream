@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gods of Dream</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">640874644101453</string>
+    <string name="fb_login_protocol_scheme">fb640874644101453</string>
+</resources>
